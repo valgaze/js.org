@@ -2709,6 +2709,7 @@ var cnames_active = {
   "spark-handler": "cname.vercel-dns.com", // noCF
   "spax": "crossjs.github.io/spax-site",
   "spectragram": "adrianengine.github.io/jquery-spectragram", // noCF? (don´t add this in a new PR)
+  "speedybot": "valgaze.github.io/speedybot",
   "speedybot-mini": "valgaze.github.io/speedybot-mini",
   "speroxu": "speroxu.github.io",
   "spider": "spider-scraper.netlify.app",
